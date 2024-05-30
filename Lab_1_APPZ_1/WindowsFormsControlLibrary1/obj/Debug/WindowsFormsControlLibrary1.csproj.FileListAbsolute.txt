@@ -1,0 +1,8 @@
+C:\Users\unexi\Documents\KHAI\APPZ\Lab_1_APPZ_1\WindowsFormsControlLibrary1\bin\Debug\WindowsFormsControlLibrary1.dll
+C:\Users\unexi\Documents\KHAI\APPZ\Lab_1_APPZ_1\WindowsFormsControlLibrary1\bin\Debug\WindowsFormsControlLibrary1.pdb
+C:\Users\unexi\Documents\KHAI\APPZ\Lab_1_APPZ_1\WindowsFormsControlLibrary1\obj\Debug\WindowsFormsControlLibrary1.csproj.AssemblyReference.cache
+C:\Users\unexi\Documents\KHAI\APPZ\Lab_1_APPZ_1\WindowsFormsControlLibrary1\obj\Debug\WindowsFormsControlLibrary1.csproj.CoreCompileInputs.cache
+C:\Users\unexi\Documents\KHAI\APPZ\Lab_1_APPZ_1\WindowsFormsControlLibrary1\obj\Debug\WindowsFormsControlLibrary1.dll
+C:\Users\unexi\Documents\KHAI\APPZ\Lab_1_APPZ_1\WindowsFormsControlLibrary1\obj\Debug\WindowsFormsControlLibrary1.pdb
+C:\Users\unexi\Documents\KHAI\APPZ\Lab_1_APPZ_1\WindowsFormsControlLibrary1\obj\Debug\WindowsFormsControlLibrary1.HexOctDecControl.resources
+C:\Users\unexi\Documents\KHAI\APPZ\Lab_1_APPZ_1\WindowsFormsControlLibrary1\obj\Debug\WindowsFormsControlLibrary1.csproj.GenerateResource.cache

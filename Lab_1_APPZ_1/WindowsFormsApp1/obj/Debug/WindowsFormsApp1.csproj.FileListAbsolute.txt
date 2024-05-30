@@ -1,0 +1,13 @@
+C:\Users\unexi\Documents\KHAI\APPZ\Lab_1_APPZ_1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\unexi\Documents\KHAI\APPZ\Lab_1_APPZ_1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\unexi\Documents\KHAI\APPZ\Lab_1_APPZ_1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\unexi\Documents\KHAI\APPZ\Lab_1_APPZ_1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\unexi\Documents\KHAI\APPZ\Lab_1_APPZ_1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\unexi\Documents\KHAI\APPZ\Lab_1_APPZ_1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\unexi\Documents\KHAI\APPZ\Lab_1_APPZ_1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\unexi\Documents\KHAI\APPZ\Lab_1_APPZ_1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\unexi\Documents\KHAI\APPZ\Lab_1_APPZ_1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\unexi\Documents\KHAI\APPZ\Lab_1_APPZ_1\WindowsFormsApp1\bin\Debug\WindowsFormsControlLibrary1.dll
+C:\Users\unexi\Documents\KHAI\APPZ\Lab_1_APPZ_1\WindowsFormsApp1\bin\Debug\WindowsFormsControlLibrary1.pdb
+C:\Users\unexi\Documents\KHAI\APPZ\Lab_1_APPZ_1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\unexi\Documents\KHAI\APPZ\Lab_1_APPZ_1\WindowsFormsApp1\obj\Debug\WindowsF.A1EEDF9B.Up2Date

@@ -1,0 +1,8 @@
+C:\Users\unexi\Documents\KHAI\APPZ\Lab_1_APPZ_1\WindowsFormsControlLibrary\bin\Debug\WindowsFormsControlLibrary.dll
+C:\Users\unexi\Documents\KHAI\APPZ\Lab_1_APPZ_1\WindowsFormsControlLibrary\bin\Debug\WindowsFormsControlLibrary.pdb
+C:\Users\unexi\Documents\KHAI\APPZ\Lab_1_APPZ_1\WindowsFormsControlLibrary\obj\Debug\WindowsFormsControlLibrary.csproj.AssemblyReference.cache
+C:\Users\unexi\Documents\KHAI\APPZ\Lab_1_APPZ_1\WindowsFormsControlLibrary\obj\Debug\WindowsFormsControlLibrary.UserCtrl.resources
+C:\Users\unexi\Documents\KHAI\APPZ\Lab_1_APPZ_1\WindowsFormsControlLibrary\obj\Debug\WindowsFormsControlLibrary.csproj.GenerateResource.cache
+C:\Users\unexi\Documents\KHAI\APPZ\Lab_1_APPZ_1\WindowsFormsControlLibrary\obj\Debug\WindowsFormsControlLibrary.csproj.CoreCompileInputs.cache
+C:\Users\unexi\Documents\KHAI\APPZ\Lab_1_APPZ_1\WindowsFormsControlLibrary\obj\Debug\WindowsFormsControlLibrary.dll
+C:\Users\unexi\Documents\KHAI\APPZ\Lab_1_APPZ_1\WindowsFormsControlLibrary\obj\Debug\WindowsFormsControlLibrary.pdb
